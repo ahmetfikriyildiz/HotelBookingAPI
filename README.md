@@ -1,6 +1,4 @@
-.
-.
-.
+
 # Booking API
 
 A RESTful API built with ASP.NET Core (.NET 6/7) and SQL Server for managing booking operations such as creating, viewing, updating, and deleting bookings. This API can be used for hotel reservations, event scheduling, room bookings, and more.
